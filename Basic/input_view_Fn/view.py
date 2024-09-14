@@ -5,4 +5,4 @@ def view():
     print("You entered " , va1ue) 
 
 def fprint():
-    print(f"you entered, numbers_list: {va1ue}")
+    print("you entered " ,len(va1ue), "characters")
