@@ -1,7 +1,7 @@
-inputs = 3,4,5
-for number in inputs:
-    if number %2 == 0 :
-        print (f"{number} is Even")
-        
+import csv # cvs lib
+# function for finding even & odd
+def even_check(numbers):
+    if numbers % 2 == 0:
+        print (f"{numbers} is Even")
     else:
-        print (f"{number} is Odd")
+        print (f"{numbers} is Odd")
