@@ -1,8 +1,0 @@
-env/.gitignore
-env/Include/*
-env/Lib/*
-env/Scripts/*
-env/share/*
-.gitignore
-Basic/input_view_Fn/__pycache__/view.cpython-312.pyc
-Basic/input_view_Fn/__pycache__/inputs.cpython-312.pyc
